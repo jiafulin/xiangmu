@@ -1,0 +1,1 @@
+function add(){return a=10,b=30,a+b}var a=add;console.log(a);
